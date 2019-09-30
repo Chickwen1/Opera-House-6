@@ -1,0 +1,24 @@
+C:\Users\iversen\Desktop\IS318-TFSmap\OperaHouse-Assignment4\OperaTesting\bin\Debug\OperaTesting.dll
+C:\Users\iversen\Desktop\IS318-TFSmap\OperaHouse-Assignment4\OperaTesting\bin\Debug\OperaTesting.pdb
+C:\Users\iversen\Desktop\IS318-TFSmap\OperaHouse-Assignment4\OperaTesting\obj\Debug\OperaTesting.csprojResolveAssemblyReference.cache
+C:\Users\iversen\Desktop\IS318-TFSmap\OperaHouse-Assignment4\OperaTesting\obj\Debug\OperaTesting.dll
+C:\Users\iversen\Desktop\IS318-TFSmap\OperaHouse-Assignment4\OperaTesting\obj\Debug\OperaTesting.pdb
+C:\Users\iversen\Desktop\IS318-TFSmap\OperaHouse-Assignment4\OperaTesting\bin\Debug\OperaHouse-Assignment4.exe
+C:\Users\iversen\Desktop\IS318-TFSmap\OperaHouse-Assignment4\OperaTesting\bin\Debug\OperaHouse-Assignment4.pdb
+C:\Users\iversen\Desktop\IS318-TFSmap\OperaHouse-Assignment4 - completed\OperaTesting\obj\Debug\OperaTesting.csprojResolveAssemblyReference.cache
+C:\Users\iversen\Desktop\IS318-TFSmap\OperaHouse-Assignment4 - completed\OperaTesting\obj\Debug\OperaTesting.dll
+C:\Users\iversen\Desktop\IS318-TFSmap\OperaHouse-Assignment4 - completed\OperaTesting\obj\Debug\OperaTesting.pdb
+C:\Users\iversen\Desktop\IS318-TFSmap\OperaHouse-Assignment4 - completed\OperaTesting\bin\Debug\OperaTesting.dll
+C:\Users\iversen\Desktop\IS318-TFSmap\OperaHouse-Assignment4 - completed\OperaTesting\bin\Debug\OperaTesting.pdb
+C:\Users\iversen\Desktop\IS318-TFSmap\OperaHouse-Assignment4 - completed\OperaTesting\bin\Debug\OperaHouse-Assignment4.exe
+C:\Users\iversen\Desktop\IS318-TFSmap\OperaHouse-Assignment4 - completed\OperaTesting\bin\Debug\OperaHouse-Assignment4.pdb
+E:\OperaHouse-Assignment6\OperaHouse-Assignment6\OperaTesting\obj\Debug\OperaTesting.csprojResolveAssemblyReference.cache
+E:\OperaHouse-Assignment6\OperaHouse-Assignment6\OperaTesting\obj\Debug\OperaTesting.csproj.CoreCompileInputs.cache
+E:\OperaHouse-Assignment6\OperaHouse-Assignment6\OperaTesting\obj\Debug\OperaTesting.dll
+E:\OperaHouse-Assignment6\OperaHouse-Assignment6\OperaTesting\obj\Debug\OperaTesting.pdb
+E:\OperaHouse-Assignment6\OperaHouse-Assignment6\OperaTesting\bin\Debug\OperaTesting.dll
+E:\OperaHouse-Assignment6\OperaHouse-Assignment6\OperaTesting\bin\Debug\OperaTesting.pdb
+E:\OperaHouse-Assignment6\OperaHouse-Assignment6\OperaTesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\OperaHouse-Assignment6\OperaHouse-Assignment6\OperaTesting\bin\Debug\OperaHouse-Assignment6.exe
+E:\OperaHouse-Assignment6\OperaHouse-Assignment6\OperaTesting\bin\Debug\OperaHouse-Assignment6.pdb
+E:\OperaHouse-Assignment6\OperaHouse-Assignment6\OperaTesting\bin\Debug\OperaHouse-Assignment6.exe.config

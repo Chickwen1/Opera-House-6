@@ -1,0 +1,9 @@
+C:\Users\iversen\Desktop\IS318-TFSmap\OperaHouse-Assignment4\OperaHouse-Assignment4\bin\Debug\OperaHouse-Assignment4.exe.config
+C:\Users\iversen\Desktop\IS318-TFSmap\OperaHouse-Assignment4\OperaHouse-Assignment4\bin\Debug\OperaHouse-Assignment4.exe
+C:\Users\iversen\Desktop\IS318-TFSmap\OperaHouse-Assignment4\OperaHouse-Assignment4\bin\Debug\OperaHouse-Assignment4.pdb
+C:\Users\iversen\Desktop\IS318-TFSmap\OperaHouse-Assignment4\OperaHouse-Assignment4\obj\Debug\OperaHouse-Assignment4.csprojResolveAssemblyReference.cache
+C:\Users\iversen\Desktop\IS318-TFSmap\OperaHouse-Assignment4\OperaHouse-Assignment4\obj\Debug\OperaHouse-Assignment4.exe
+C:\Users\iversen\Desktop\IS318-TFSmap\OperaHouse-Assignment4\OperaHouse-Assignment4\obj\Debug\OperaHouse-Assignment4.pdb
+C:\Users\iversen\Desktop\IS318-TFSmap\OperaHouse-Assignment4 - completed\OperaHouse-Assignment4\bin\Debug\OperaHouse-Assignment4.exe.config
+C:\Users\iversen\Desktop\IS318-TFSmap\OperaHouse-Assignment4 - completed\OperaHouse-Assignment4\obj\Debug\OperaHouse-Assignment4.exe
+C:\Users\iversen\Desktop\IS318-TFSmap\OperaHouse-Assignment4 - completed\OperaHouse-Assignment4\obj\Debug\OperaHouse-Assignment4.pdb

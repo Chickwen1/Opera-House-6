@@ -1,0 +1,13 @@
+C:\Users\iversen\Desktop\IS318-TFSmap\OperaHouse-Assignment4 - completed\OperaHouse-Assignment4\bin\Debug\OperaHouse-Assignment4.exe.config
+C:\Users\iversen\Desktop\IS318-TFSmap\OperaHouse-Assignment4 - completed\OperaHouse-Assignment4\obj\Debug\OperaHouse-Assignment4.exe
+C:\Users\iversen\Desktop\IS318-TFSmap\OperaHouse-Assignment4 - completed\OperaHouse-Assignment4\obj\Debug\OperaHouse-Assignment4.pdb
+C:\Users\iversen\Desktop\IS318-TFSmap\OperaHouse-Assignment4 - completed\OperaHouse-Assignment4\bin\Debug\OperaHouse-Assignment4.exe
+C:\Users\iversen\Desktop\IS318-TFSmap\OperaHouse-Assignment4 - completed\OperaHouse-Assignment4\bin\Debug\OperaHouse-Assignment4.pdb
+C:\Users\iversen\Desktop\IS318-TFSmap\OperaHouse-Assignment4 - completed\OperaHouse-Assignment4\obj\Debug\OperaHouse_Assignment5.EventListForm.resources
+C:\Users\iversen\Desktop\IS318-TFSmap\OperaHouse-Assignment4 - completed\OperaHouse-Assignment4\obj\Debug\OperaHouse-Assignment5.csproj.GenerateResource.Cache
+C:\Users\iversen\Desktop\IS318-TFSmap\OperaHouse-Assignment4 - completed\OperaHouse-Assignment4\obj\Debug\OperaHouse_Assignment5.TicketSales.resources
+C:\Users\iversen\Desktop\IS318-TFSmap\OperaHouse-Assignment4 - completed\OperaHouse-Assignment4\obj\Debug\OperaHouse-Assignment5.csprojResolveAssemblyReference.cache
+C:\Users\iversen\Desktop\IS318-TFSmap\OperaHouse-Assignment4 - completed\OperaHouse-Assignment4\obj\Debug\OperaHouse_Assignment5.EventDetail.resources
+C:\Users\iversen\Desktop\OperaHouse-Assignment4 - completed\OperaHouse-Assignment4\bin\Debug\OperaHouse-Assignment4.exe.config
+C:\Users\iversen\Desktop\OperaHouse-Assignment4 - completed\OperaHouse-Assignment4\obj\Debug\OperaHouse-Assignment4.exe
+C:\Users\iversen\Desktop\OperaHouse-Assignment4 - completed\OperaHouse-Assignment4\obj\Debug\OperaHouse-Assignment4.pdb

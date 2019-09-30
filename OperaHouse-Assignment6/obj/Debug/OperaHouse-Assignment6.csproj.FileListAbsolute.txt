@@ -1,0 +1,49 @@
+C:\Users\iversen\Desktop\OperaHouse-Assignment4 - completed\OperaHouse-Assignment4\bin\Debug\OperaHouse-Assignment4.exe.config
+C:\Users\iversen\Desktop\OperaHouse-Assignment4 - completed\OperaHouse-Assignment4\obj\Debug\OperaHouse-Assignment4.exe
+C:\Users\iversen\Desktop\OperaHouse-Assignment4 - completed\OperaHouse-Assignment4\obj\Debug\OperaHouse-Assignment4.pdb
+C:\Users\iversen\Desktop\OperaHouse-Assignment4 - completed\OperaHouse-Assignment4\bin\Debug\OperaHouse-Assignment6.exe.config
+C:\Users\iversen\Desktop\OperaHouse-Assignment4 - completed\OperaHouse-Assignment6\bin\Debug\OperaHouse-Assignment6.exe.config
+C:\Users\iversen\Desktop\OperaHouse-Assignment4 - completed\OperaHouse-Assignment6\bin\Debug\OperaHouse-Assignment6.exe
+C:\Users\iversen\Desktop\OperaHouse-Assignment4 - completed\OperaHouse-Assignment6\bin\Debug\OperaHouse-Assignment6.pdb
+C:\Users\iversen\Desktop\OperaHouse-Assignment4 - completed\OperaHouse-Assignment6\obj\Debug\OperaHouse-Assignment6.csprojResolveAssemblyReference.cache
+C:\Users\iversen\Desktop\OperaHouse-Assignment4 - completed\OperaHouse-Assignment6\obj\Debug\OperaHouse_Assignment6.EventDetail.resources
+C:\Users\iversen\Desktop\OperaHouse-Assignment4 - completed\OperaHouse-Assignment6\obj\Debug\OperaHouse_Assignment6.EventListForm.resources
+C:\Users\iversen\Desktop\OperaHouse-Assignment4 - completed\OperaHouse-Assignment6\obj\Debug\OperaHouse_Assignment6.TicketSales.resources
+C:\Users\iversen\Desktop\OperaHouse-Assignment4 - completed\OperaHouse-Assignment6\obj\Debug\OperaHouse-Assignment6.csproj.GenerateResource.Cache
+C:\Users\iversen\Desktop\OperaHouse-Assignment4 - completed\OperaHouse-Assignment6\obj\Debug\OperaHouse-Assignment6.exe
+C:\Users\iversen\Desktop\OperaHouse-Assignment4 - completed\OperaHouse-Assignment6\obj\Debug\OperaHouse-Assignment6.pdb
+C:\Users\martis73\Desktop\OperaHouse-Assignment6\OperaHouse-Assignment6\obj\Debug\OperaHouse-Assignment6.csprojResolveAssemblyReference.cache
+C:\Users\martis73\Desktop\OperaHouse-Assignment6\OperaHouse-Assignment6\obj\Debug\OperaHouse_Assignment6.EventDetail.resources
+C:\Users\martis73\Desktop\OperaHouse-Assignment6\OperaHouse-Assignment6\obj\Debug\OperaHouse_Assignment6.EventListForm.resources
+C:\Users\martis73\Desktop\OperaHouse-Assignment6\OperaHouse-Assignment6\obj\Debug\OperaHouse_Assignment6.TicketSales.resources
+C:\Users\martis73\Desktop\OperaHouse-Assignment6\OperaHouse-Assignment6\obj\Debug\OperaHouse-Assignment6.csproj.GenerateResource.Cache
+C:\Users\martis73\Desktop\OperaHouse-Assignment6\OperaHouse-Assignment6\obj\Debug\OperaHouse-Assignment6.csproj.CoreCompileInputs.cache
+C:\Users\martis73\Desktop\OperaHouse-Assignment6\OperaHouse-Assignment6\obj\Debug\OperaHouse-Assignment6.exe
+C:\Users\martis73\Desktop\OperaHouse-Assignment6\OperaHouse-Assignment6\obj\Debug\OperaHouse-Assignment6.pdb
+C:\Users\martis73\Desktop\OperaHouse-Assignment6\OperaHouse-Assignment6\bin\Debug\OperaHouse-Assignment6.exe.config
+C:\Users\martis73\Desktop\OperaHouse-Assignment6\OperaHouse-Assignment6\bin\Debug\OperaHouse-Assignment6.exe
+C:\Users\martis73\Desktop\OperaHouse-Assignment6\OperaHouse-Assignment6\bin\Debug\OperaHouse-Assignment6.pdb
+E:\OperaHouse-Assignment6\OperaHouse-Assignment6\OperaHouse-Assignment6\bin\Debug\OperaHouse-Assignment6.exe.config
+E:\OperaHouse-Assignment6\OperaHouse-Assignment6\OperaHouse-Assignment6\bin\Debug\OperaHouse-Assignment6.exe
+E:\OperaHouse-Assignment6\OperaHouse-Assignment6\OperaHouse-Assignment6\bin\Debug\OperaHouse-Assignment6.pdb
+E:\OperaHouse-Assignment6\OperaHouse-Assignment6\OperaHouse-Assignment6\obj\Debug\OperaHouse-Assignment6.csprojResolveAssemblyReference.cache
+E:\OperaHouse-Assignment6\OperaHouse-Assignment6\OperaHouse-Assignment6\obj\Debug\OperaHouse_Assignment6.EventDetail.resources
+E:\OperaHouse-Assignment6\OperaHouse-Assignment6\OperaHouse-Assignment6\obj\Debug\OperaHouse_Assignment6.EventListForm.resources
+E:\OperaHouse-Assignment6\OperaHouse-Assignment6\OperaHouse-Assignment6\obj\Debug\OperaHouse_Assignment6.TicketSales.resources
+E:\OperaHouse-Assignment6\OperaHouse-Assignment6\OperaHouse-Assignment6\obj\Debug\OperaHouse-Assignment6.csproj.GenerateResource.Cache
+E:\OperaHouse-Assignment6\OperaHouse-Assignment6\OperaHouse-Assignment6\obj\Debug\OperaHouse-Assignment6.exe
+E:\OperaHouse-Assignment6\OperaHouse-Assignment6\OperaHouse-Assignment6\obj\Debug\OperaHouse-Assignment6.pdb
+E:\OperaHouse-Assignment6\OperaHouse-Assignment6\OperaHouse-Assignment6\obj\Debug\OperaHouse_Assignment6.DeleteForm.resources
+D:\OperaHouse-Assignment6\OperaHouse-Assignment6\OperaHouse-Assignment6\bin\Debug\OperaHouse-Assignment6.exe.config
+D:\OperaHouse-Assignment6\OperaHouse-Assignment6\OperaHouse-Assignment6\bin\Debug\OperaHouse-Assignment6.exe
+D:\OperaHouse-Assignment6\OperaHouse-Assignment6\OperaHouse-Assignment6\bin\Debug\OperaHouse-Assignment6.pdb
+D:\OperaHouse-Assignment6\OperaHouse-Assignment6\OperaHouse-Assignment6\obj\Debug\OperaHouse-Assignment6.csprojResolveAssemblyReference.cache
+D:\OperaHouse-Assignment6\OperaHouse-Assignment6\OperaHouse-Assignment6\obj\Debug\OperaHouse_Assignment6.DeleteForm.resources
+D:\OperaHouse-Assignment6\OperaHouse-Assignment6\OperaHouse-Assignment6\obj\Debug\OperaHouse_Assignment6.EventDetail.resources
+D:\OperaHouse-Assignment6\OperaHouse-Assignment6\OperaHouse-Assignment6\obj\Debug\OperaHouse_Assignment6.EventListForm.resources
+D:\OperaHouse-Assignment6\OperaHouse-Assignment6\OperaHouse-Assignment6\obj\Debug\OperaHouse_Assignment6.TicketSales.resources
+D:\OperaHouse-Assignment6\OperaHouse-Assignment6\OperaHouse-Assignment6\obj\Debug\OperaHouse-Assignment6.csproj.GenerateResource.Cache
+D:\OperaHouse-Assignment6\OperaHouse-Assignment6\OperaHouse-Assignment6\obj\Debug\OperaHouse-Assignment6.csproj.CoreCompileInputs.cache
+D:\OperaHouse-Assignment6\OperaHouse-Assignment6\OperaHouse-Assignment6\obj\Debug\OperaHouse-Assignment6.exe
+D:\OperaHouse-Assignment6\OperaHouse-Assignment6\OperaHouse-Assignment6\obj\Debug\OperaHouse-Assignment6.pdb
+E:\OperaHouse-Assignment6\OperaHouse-Assignment6\OperaHouse-Assignment6\obj\Debug\OperaHouse-Assignment6.csproj.CoreCompileInputs.cache
